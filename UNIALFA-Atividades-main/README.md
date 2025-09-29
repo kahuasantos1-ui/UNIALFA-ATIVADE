@@ -1,4 +1,4 @@
-![BANNER](./Img/UNIALFAATIVIDADES.png)
+
 
 # UNIALFA-Atividades
 
@@ -8,13 +8,12 @@ Repositório destinado ao armazenamento e organização das atividades acadêmic
 
 ## 👨‍💻 Sobre Mim
 
-- **Nome:** Elizeu Corrêa do Prado
+- **Nome:** Kahua dos santos dias 
 - **Curso:** Análise e Desenvolvimento de Sistemas
-- **GitHub:** [elizeucp](https://github.com/elizeucp)
+- **GitHub:** [kahuasantos](https://github.com/kahuasantos1-ui)
 
 ---
 
-## 📁 Estrutura do Repositório
 
 - **Exercícios:**  
   Resolução de questões e listas propostas em aula ou para estudo individual.
@@ -28,33 +27,4 @@ Repositório destinado ao armazenamento e organização das atividades acadêmic
 - **Imagens e Recursos:**  
   Arquivos de apoio e banners ilustrativos das tarefas.
 
----
 
-## ✍️ Exemplos de Atividades
-
-- **Java (AWT, Swing, JavaFX):**  
-  Exercícios teóricos e práticos sobre interfaces gráficas em Java.
-
-- **Banco de Dados (SQL):**  
-  Scripts, consultas e projetos envolvendo modelagem e manipulação de dados.
-
-- **Projetos de Programação:**  
-  Pequenas aplicações ou módulos criados para fixação dos conteúdos estudados.
-
----
-
-## 🚀 Como Navegar
-
-- Cada pasta representa uma disciplina, tema ou período letivo.
-- Os arquivos `.md` trazem explicações, respostas, códigos e instruções relevantes.
-- Recursos visuais estão organizados na pasta `img/`.
-
----
-
-## 📄 Licença
-
-Este repositório é de uso acadêmico e pessoal, podendo ser utilizado como referência para estudos.
-
----
-
-> *Portfólio atualizado conforme novas atividades forem desenvolvidas.*
