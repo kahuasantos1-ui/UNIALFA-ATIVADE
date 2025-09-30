@@ -1,5 +1,5 @@
 
-# Respostas - Questões sobre Java (AWT, Swing e JavaFX) ~ Kahuã dos santos disa
+# Respostas - Questões sobre Java (AWT, Swing e JavaFX) ~ Kahuã Dos Santos Dias
 ### **1.** O que significa a sigla AWT em Java?
 ##### **a) Abstract Window Toolkit <- Correta**
 ##### b) Advanced Window Tools
