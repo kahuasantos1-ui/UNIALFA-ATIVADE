@@ -1,6 +1,5 @@
-![BANNER](../img/BANNERQUESTOES.png)
-# Respostas - Questões sobre Java (AWT, Swing e JavaFX) ~ Elizeu Corrêa do Prado
 
+# Respostas - Questões sobre Java (AWT, Swing e JavaFX) ~ Kahuã dos santos disa
 ### **1.** O que significa a sigla AWT em Java?
 ##### **a) Abstract Window Toolkit <- Correta**
 ##### b) Advanced Window Tools
