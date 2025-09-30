@@ -1,5 +1,5 @@
 ![BANNER](../Questoes/Img/BANNERHERANCA.png)
-# Respostas - Questões sobre Herança e Encapsulamento em Java ~ Elizeu Corrêa do Prado
+# Respostas - Questões sobre Herança e Encapsulamento em Java ~ Kahuã dos santos dias
 
 ### **1.** Em Java, qual palavra-chave é usada para indicar que uma classe herda de outra?
 ##### a) inherit
